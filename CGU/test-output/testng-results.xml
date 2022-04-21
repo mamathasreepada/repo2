@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30895" started-at="2022-04-10T20:58:55 AEST" finished-at="2022-04-10T20:59:26 AEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30895" started-at="2022-04-10T20:58:55 AEST" finished-at="2022-04-10T20:59:26 AEST">
+      <class name="UpdateDetailsTests.Updatepolicydetailstest">
+        <test-method status="PASS" signature="setExtent()[pri:0, instance:UpdateDetailsTests.Updatepolicydetailstest@a38d7a3]" name="setExtent" is-config="true" duration-ms="569" started-at="2022-04-10T20:58:55 AEST" finished-at="2022-04-10T20:58:56 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method status="PASS" signature="BrowserStart()[pri:0, instance:UpdateDetailsTests.Updatepolicydetailstest@a38d7a3]" name="BrowserStart" is-config="true" duration-ms="13221" started-at="2022-04-10T20:58:56 AEST" finished-at="2022-04-10T20:59:09 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserStart -->
+        <test-method status="PASS" signature="Updatedetails()[pri:0, instance:UpdateDetailsTests.Updatepolicydetailstest@a38d7a3]" name="Updatedetails" duration-ms="15314" started-at="2022-04-10T20:59:09 AEST" finished-at="2022-04-10T20:59:25 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Updatedetails -->
+        <test-method status="PASS" signature="BrowserClose()[pri:0, instance:UpdateDetailsTests.Updatepolicydetailstest@a38d7a3]" name="BrowserClose" is-config="true" duration-ms="1139" started-at="2022-04-10T20:59:25 AEST" finished-at="2022-04-10T20:59:26 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClose -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:UpdateDetailsTests.Updatepolicydetailstest@a38d7a3]" name="tearDown" is-config="true" duration-ms="6" started-at="2022-04-10T20:59:26 AEST" finished-at="2022-04-10T20:59:26 AEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Updatedetails status=SUCCESS method=Updatepolicydetailstest.Updatedetails()[pri:0, instance:UpdateDetailsTests.Updatepolicydetailstest@a38d7a3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:UpdateDetailsTests.Updatepolicydetailstest@a38d7a3]" name="endReport" is-config="true" duration-ms="570" started-at="2022-04-10T20:59:26 AEST" finished-at="2022-04-10T20:59:26 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- UpdateDetailsTests.Updatepolicydetailstest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
