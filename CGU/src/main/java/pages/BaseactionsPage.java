@@ -7,6 +7,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import Base.SetUp;
+//Extra comment for github
 
 public class BaseactionsPage extends SetUp {
 	public static void scrolldown()
